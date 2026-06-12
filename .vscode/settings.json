@@ -1,0 +1,7 @@
+{
+  "tailwindCSS.experimental.classRegex": [
+    ["clsx\\(([^)]*)\\)", "(?:'|\"|`)([^']*)(?:'|\"|`)"]
+  ],
+  "tailwindCSS.configPath": "frontend/tailwind.config.js",
+  "tailwindCSS.rootDir": "./frontend"
+}
